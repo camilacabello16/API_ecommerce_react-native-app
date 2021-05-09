@@ -7,7 +7,7 @@ namespace MISA.Common.Models
     /// <summary>
     /// Người dùng
     /// </summary>
-    public class User
+    public class User:BaseEntity
     {
         public Guid UserId { get; set; }
         public string UserName { get; set; }

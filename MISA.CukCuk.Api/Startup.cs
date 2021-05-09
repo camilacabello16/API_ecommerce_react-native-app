@@ -12,6 +12,7 @@ using Microsoft.OpenApi.Models;
 using MISA.Common.Models;
 using MISA.DataLayer;
 using MISA.DataLayer.interfaces;
+using MISA.DataLayer.Repositories;
 using MISA.Service;
 using MISA.Service.interfaces;
 using Newtonsoft.Json.Serialization;
@@ -49,6 +50,10 @@ namespace MISA.CukCuk.Api
 
             services.AddScoped(typeof(IBaseService<>), typeof(BaseService<>));
             services.AddScoped(typeof(IDbContext<>), typeof(DbContext<>));
+            services.AddScoped<IProductRepository, ProductRepository>();
+            services.AddScoped<ICartRepository, CartRepository>();
+            services.AddScoped<IUserRepository, UserRepository>();
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -80,7 +85,9 @@ namespace MISA.CukCuk.Api
             app.UseRouting();
 
             app.UseAuthorization();
-
+            //..............
+            app.UseHttpsRedirection();
+            //...............
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
