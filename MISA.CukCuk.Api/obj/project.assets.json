@@ -1720,19 +1720,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
+      "projectUniqueName": "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
       "projectName": "MISA.CukCuk.Api",
-      "projectPath": "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.CukCuk.Api\\obj\\",
+      "projectPath": "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.CukCuk.Api\\MISA.CukCuk.Api.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.CukCuk.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1746,11 +1746,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.Common\\MISA.Common.csproj": {
-              "projectPath": "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.Common\\MISA.Common.csproj"
+            "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.Common\\MISA.Common.csproj": {
+              "projectPath": "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.Common\\MISA.Common.csproj"
             },
-            "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.Service\\MISA.Service.csproj": {
-              "projectPath": "D:\\hieu\\misa-training\\baseapi\\ecommerce-app-api\\MISA.CukCuk.Api\\MISA.Service\\MISA.Service.csproj"
+            "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.Service\\MISA.Service.csproj": {
+              "projectPath": "H:\\ecommerce_react-native\\API_ecommerce_react-native-app\\MISA.Service\\MISA.Service.csproj"
             }
           }
         }
@@ -1806,7 +1806,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

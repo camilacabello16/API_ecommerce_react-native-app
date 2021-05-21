@@ -55,6 +55,36 @@ namespace MISA.CukCuk.Api.Controllers
                 return StatusCode(200, res);
             }
         }
+
+        [HttpGet("{productId}")]
+        public IActionResult GetProductByID([FromRoute] Guid productId)
+        {
+            var res = _productRepository.GetProductByID(productId);
+            var data = res as List<Product>;
+            if (data.Count == 0)
+            {
+                return StatusCode(204, res);
+            }
+            else
+            {
+                return StatusCode(200, res);
+            }
+        }
+
+        [HttpGet("search/{searchText}")]
+        public IActionResult GetProductBySearch([FromRoute] string searchText)
+        {
+            var res = _productRepository.GetProductBySearch(searchText);
+            var data = res as List<Product>;
+            if (data.Count == 0)
+            {
+                return StatusCode(204, res);
+            }
+            else
+            {
+                return StatusCode(200, res);
+            }
+        }
         #endregion
     }
 }

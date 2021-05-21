@@ -82,3 +82,17 @@ D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Service\obj
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.deps.json
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Service.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csprojAssemblyReference.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfoInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.AssemblyInfo.cs
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CoreCompileInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.csproj.CopyComplete
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Service\obj\Debug\netcoreapp3.1\MISA.Service.pdb

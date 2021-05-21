@@ -64,3 +64,14 @@ D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Common\obj\
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.Properties.Resources.resources
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.GenerateResource.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb

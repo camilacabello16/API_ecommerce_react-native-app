@@ -23,5 +23,17 @@ namespace MISA.DataLayer.Repositories
             var data = _dbConnection.Query<Product>($"SELECT * FROM Product WHERE UserId = '{dataString}'", commandType: CommandType.Text);
             return data;
         }
+
+        public IEnumerable<Product> GetProductByID(Guid productId)
+        {
+            var data = _dbConnection.Query<Product>("SELECT * FROM Product WHERE ProductId = @productId", new { productId = productId }, commandType: CommandType.Text);
+            return data;
+        }
+        
+        public IEnumerable<Product> GetProductBySearch(string searchText)
+        {
+            var data = _dbConnection.Query<Product>($"SELECT * FROM Product WHERE ProductName LIKE CONCAT('%', '{searchText}', '%')", commandType: CommandType.Text);
+            return data;
+        }
     }
 }

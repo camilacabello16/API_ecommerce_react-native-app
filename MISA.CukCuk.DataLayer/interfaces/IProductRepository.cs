@@ -9,5 +9,8 @@ namespace MISA.DataLayer.interfaces
     {
         IEnumerable<Product> GetProductByCategoryID(int categoryId);
         IEnumerable<Product> GetProductByUserID(Guid userId);
+        IEnumerable<Product> GetProductByID(Guid productId);
+        IEnumerable<Product> GetProductBySearch(string searchText);
+
     }
 }

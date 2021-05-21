@@ -18,7 +18,7 @@ namespace MISA.DataLayer.Repositories
 
         public int InsertToCart(Guid userId, Guid productId)
         {
-            var res = _dbConnection.Execute($"INSERT INTO Cart (CartId, UserId, ProductId) VALUES (UUID(), {userId}, {productId})", commandType: CommandType.Text);
+            var res = _dbConnection.Execute($"INSERT INTO Cart (CartId, UserId, ProductId) VALUES (UUID(), '{userId}', '{productId}')", commandType: CommandType.Text);
             return res;
         }
     }

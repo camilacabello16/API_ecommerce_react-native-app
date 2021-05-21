@@ -70,3 +70,15 @@ D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.CukCuk.Data
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CopyComplete
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
 D:\hieu\misa-training\baseapi\ecommerce-app-api\MISA.CukCuk.Api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.deps.json
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\MISA.DataLayer.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\MISA.Common.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csprojAssemblyReference.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfoInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.AssemblyInfo.cs
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CoreCompileInputs.cache
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.csproj.CopyComplete
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.dll
+H:\ecommerce_react-native\API_ecommerce_react-native-app\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\MISA.DataLayer.pdb
